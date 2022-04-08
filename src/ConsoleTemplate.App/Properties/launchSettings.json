@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleTemplate.App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
